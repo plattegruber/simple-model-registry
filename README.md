@@ -4,7 +4,7 @@ A simple registry for your ML models with configurable storage providers.
 
 ## Description
 
-MLOps is evolving quickly, encompassing new features every day. Registries, deployments, monitoring, experiment tracking - a lot of these things are probably overhead for very small teams, or for teams just dipping their toes into MLOps. If you have a model and are already leveraging some simple deployment (functions or something similar), a good first step is to store those models in a central repository. This library coordinates with a storage provider you configure (e.g. Azure Storage) to reduce the friction between your developers and model engineers.
+MLOps is evolving quickly, encompassing new features every day. Registries, deployments, monitoring, experiment tracking - a lot of these things can be overkill for very small teams, or for teams just dipping their toes into MLOps. If you have a model and are already leveraging some simple deployment (functions or something similar), a good first step is to store those models in a central repository. This library coordinates with a storage provider you configure (e.g. Azure Storage) to reduce the friction between your developers and model engineers.
 
 ## Getting Started
 
